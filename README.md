@@ -1,3 +1,3 @@
 # EX_2
-HEllO .
-I like :☕: :pizza: and 🏀
+HEllO 
+I like :COFFEE: :PIZZA:
